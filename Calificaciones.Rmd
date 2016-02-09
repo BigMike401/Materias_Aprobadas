@@ -1,52 +1,48 @@
 ---
 title: "Materias Aprobadas"
-author: "Miguel Morales RamÌrez"
+author: "Miguel Morales Ram√≠rez"
 date: "8 de febrero de 2016"
 output: html_document
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+#Benem√©rita Universidad aut√≥noma de puebla
+##Facultad de Ciencias F√≠sico-Matem√°ticas
+###Licenciatura en Actuar√≠a
+####Programaci√≥n Actuarial III
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
-
-#BenemÈrita Universidad autÛnoma de puebla
-##Facultad de Ciencias FÌsico-Matem·ticas
-###Licenciatura en ActuarÌa
-####ProgramaciÛn Actuarial III
-
-#####Miguel Morales RamÌrez
+#####Miguel Morales Ram√≠rez
 #####201239090
 
 ###Materias Aprobadas
 
 ####Primer Semestre
-*IntroducciÛn a la ProfesiÛn Actuarial: 8
-*Conceptos de C·lculo: 6
+*Introducci√≥n a la Profesi√≥n Actuarial: 8
+*Conceptos de C√°lculo: 6
 
 ####Segundo Semestre
-*MicroeconomÌa: 9
+*Microeconom√≠a: 9
 *DHTIC: 8
 *Lengua Extranjera: 9
-*GeometrÌa AnalÌtica: 8
+*Geometr√≠a Anal√≠tica: 8
 
 ####Tercer Semestre
-*ProgramaciÛn Actuarial I: 7
-*MacroeconomÌa: 8
-*FormaciÛn Humana y Social: 9
-*Matem·ticas B·sicas: 9
-TeorÌa de Ecuaciones: 9
+*Programaci√≥n Actuarial I: 7
+*Macroeconom√≠a: 8
+*Formaci√≥n Humana y Social: 9
+*Matem√°ticas B√°sicas: 9
+Teor√≠a de Ecuaciones: 9
 
 ####Cuarto Semestre
-*ProgramaciÛn Actuarial II: 6
-*TeorÌa del InterÈs I: 6
+*Programaci√≥n Actuarial II: 6
+*Teor√≠a del Inter√©s I: 6
 *Contabilidad General: 9
-*C·lculo Diferencial: 8
-*¡lgebra Lineal I: 7
+*C√°lculo Diferencial: 8
+*√Ålgebra Lineal I: 7
 
 ####Quinto Semestre
-*TeorÌa del InterÈs II: 6
-*DemografÌa I: 7
+*Teor√≠a del Inter√©s II: 6
+*Demograf√≠a I: 7
 
 ####Sexto Semestre
 
-####SÈptimo Semestre
+####S√©ptimo Semestre
